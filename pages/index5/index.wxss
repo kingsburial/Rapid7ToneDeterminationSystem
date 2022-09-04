@@ -1,0 +1,43 @@
+.selection1 {
+  width: 400 rpx ;
+  height: 150 rpx ;
+  background-color: grey ;
+  
+  display: flex ;
+  flex-direction: column ;
+  justify-content: space-around ;
+  align-items: center ;
+  }
+  .selection2 {
+  width: 400 rpx ;
+  height: 150 rpx ;
+  background-color: #3ecdb5 ;
+  display: flex ;
+  flex-direction: column ;
+  justify-content: space-around ;
+  align-items: center ;
+  }
+  .selection3 {
+  width: 400 rpx ;
+  height: 150 rpx ;
+  background-color: grey ;
+  display: flex ;
+  flex-direction: column ;
+  justify-content: space-around ;
+  align-items: center ;
+  }
+  .selection {
+  width: 750 rpx ;
+  height: 800 rpx ;
+  display: flex ;
+  flex-direction: row ;
+  justify-content: space-around ;
+  align-items: center ;
+  }
+  image {
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    overflow: hidden;
+  }
+button{color:#fff;background:  #3ecdb5; }
